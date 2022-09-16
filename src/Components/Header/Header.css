@@ -6,6 +6,10 @@
   z-index: 999;
 }
 
+.brandName, .logout-btn {
+  cursor: pointer;
+}
+
 .headerChildDiv {
   width: 100%;
   display: flex;
